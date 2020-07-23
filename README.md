@@ -1,2 +1,3 @@
 # Duke-Java-Programming-and-Software-Engineering-Fundamentals-Specialization
-Java Specialization provided by Duke Unversity on Coursera
+Recommendation System Project as part of the MOOC by Duke University.
+
